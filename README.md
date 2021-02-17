@@ -6,6 +6,8 @@ Our project hence shows the results we have been able to extract out of the obta
 
 It intelligently involves the execution of a sequence of actions to achieve a goal.
 
+**Note: Check the Project_Report.pdf  for more informations.**
+
 ## Installation
 
 Open cmd and type the following commands: 
